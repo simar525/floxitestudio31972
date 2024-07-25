@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.sessions.us/room/florian/$1"
+ }
+  ]
+}
